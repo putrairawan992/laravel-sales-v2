@@ -17,7 +17,7 @@
 1.  **Clone Repository or Download**
 
     ```bash
-    $ git clone https://github.com/pandadev666/laravel_sales
+    $ git clone https://github.com/putrairawan992/laravel-sales-v2.git
     ```
 1. **Setup**
     ```bash
